@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-
+/*took out the . due to change in html*/
 body {
     background-color: #d9dcd6;
 }
